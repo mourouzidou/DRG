@@ -1,6 +1,6 @@
 # DRG
 
-This repository is under develpment. The current stage may not be fully functional. Please try to fix small bugs yourself and add your contributions with pull requests.
+This repository is under development. The current stage may not be fully functional. Please try to fix small bugs yourself and add your contributions with pull requests.
 
 This repository contains pytorch-based code to develop Convolutional Neural Networks (CNNs) for genomic sequence-to-function (S2F) models that predict molecular phenotypes from genomic sequence, such as gene expression or chromatin accessibility. 
 
